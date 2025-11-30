@@ -1,0 +1,39 @@
+
+❌ '001- SEO Fundamentals'/
+✔  '002 - Technical SEO'/
+✔  '003 - On-Page SEO'/
+✔  '004 - Content Strategy and Marketing'/
+✔  '005 - Keyword Research'/
+✔  '006 - Off-Page SEO and Link Building'/
+        006.002 - Link Building Strategies
+✔  '007 - Local SEO'/
+✔  '008 - E-commerce SEO'/
+✔  '009 - International SEO'/
+✔  '010 - Mobile SEO'/
+✔  '011 - Voice Search Optimization'/
+✔  '012 - Video SEO'/
+✔  '013 - SEO Analytics and Measurement'/
+❌ '014 - SEO Tools and Software'/
+        014.002 - Keyword Research Tools
+                015 - WordStream Free Keyword Tool
+✔  '015 - Algorithm Updates and Google Changes'/
+✔  '016 - Enterprise SEO'/
+✔  '017 - SEO for Different CMS Platforms'/
+✔  '018 - Competitive Analysis'/
+❌ '019 - Conversion Rate Optimization (CRO) and SEO'/
+❌ '020 - SEO Audit'/
+❌ '021 - AI and Machine Learning in SEO'/
+❌ '022 - Advanced SEO Concepts'/
+❌ '023 - SEO Project Management'/
+❌ '024 - SEO Ethics and Guidelines'/
+❌ '025 - Industry Knowledge and Soft Skills'/
+❌ '026 - SEO Certifications and Resources'/
+
+
+=======================================
+006.002 - Link Building Strategies.md
+=======================================
+014.015 - Competitor Analysis Tools => 007 - Crayon
+=======================================
+014.004 - Rank Tracking Tools - 007 - SERPChecker
+=======================================
