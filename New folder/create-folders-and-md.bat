@@ -14,4 +14,3 @@ for /f "usebackq delims=" %%F in ("names.txt") do (
 )
 
 echo Done!
-pause
