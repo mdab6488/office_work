@@ -1,4 +1,5 @@
-
+Math Calculator - General mathematical calculations
+Scientific Calculator - Advanced scientific calculations
 ============================================
 Basic Operations
 ============================================
